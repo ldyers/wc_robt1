@@ -1,0 +1,7 @@
+2023-11-02 14:54:44,428 WCF ERROR client.py::__init__[80]:初始化失败！
+2023-11-03 10:59:38,486 WCF ERROR client.py::logerror[32]:Call FUNC_DISABLE_RECV_TXT failed: Timed out
+2023-11-03 10:59:48,437 WCF ERROR client.py::cleanup[124]:退出失败！
+2023-11-07 16:08:19,110 Robot ERROR robot.py::toChitchat[93]:无法从 ChatGPT 获得答案
+2023-11-07 16:09:39,929 Robot ERROR robot.py::toChitchat[93]:无法从 ChatGPT 获得答案
+2023-11-07 16:12:38,340 Robot ERROR robot.py::toChitchat[93]:无法从 ChatGPT 获得答案
+2023-11-08 08:00:41,980 Robot ERROR robot.py::toChitchat[93]:无法从 ChatGPT 获得答案
